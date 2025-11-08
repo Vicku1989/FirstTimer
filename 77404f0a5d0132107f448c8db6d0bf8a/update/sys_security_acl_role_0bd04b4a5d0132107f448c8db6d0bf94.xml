@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-08 05:14:24</sys_created_on>
+        <sys_id>0bd04b4a5d0132107f448c8db6d0bf94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_expertsfir_0_test2.x_snc_expertsfir_0.user</sys_name>
+        <sys_package display_value="expertsFirsttimer" source="x_snc_expertsfir_0">77404f0a5d0132107f448c8db6d0bf8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="expertsFirsttimer">77404f0a5d0132107f448c8db6d0bf8a</sys_scope>
+        <sys_security_acl display_value="x_snc_expertsfir_0_test2">03d04b4a5d0132107f448c8db6d0bf91</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0bd04b4a5d0132107f448c8db6d0bf94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-08 05:14:24</sys_updated_on>
+        <sys_user_role display_value="x_snc_expertsfir_0.user" name="x_snc_expertsfir_0.user">cc504f0a5d0132107f448c8db6d0bf8f</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
